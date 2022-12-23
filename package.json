@@ -1,0 +1,22 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice for FreeCodeCamp certification",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "keywords": [
+    "timestamp",
+    "time"
+  ],
+  "author": "tothm32",
+  "contributors": [
+    {
+      "name": "freeCodeCamp"
+    }
+  ],
+  "license": "ISC"
+}
